@@ -86,5 +86,6 @@ int main(){
     if(shmdt(shared_m)==-1){
         cout<<"shmdt error\n"<<endl;
     }
+    cout << "test" << endl;
     return 0;
 }
