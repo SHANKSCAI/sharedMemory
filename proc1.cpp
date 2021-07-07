@@ -87,5 +87,6 @@ int main(){
         cout<<"shmdt error\n"<<endl;
     }
     //cout << "test" << endl;
+	//cout << "test20210707" << endl;
     return 0;
 }
