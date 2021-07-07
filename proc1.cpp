@@ -87,10 +87,16 @@ int main(){
         cout<<"shmdt error\n"<<endl;
     }
 
+
     cout << "test git pull" << endl;
 
     //cout << "test" << endl;
 	//cout << "test20210707" << endl;
+
+
+ 
+    //cout << "test" << endl;
+    //cout<<"merge"<<endl;
 
     return 0;
 }
